@@ -1,0 +1,90 @@
+{
+  "intents": [
+    {
+      "words": [
+        "hi",
+        "hey",
+        "how are you",
+        "is anyone there?",
+        "hello",
+        "good day",
+        "greetings",
+        "hola"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "words": ["bye", "see you later", "goodbye", "adios", "peace"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "words": ["thanks", "thank you", "that's helpful", "thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "words": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "items",
+        "merchandise"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "words": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "cards",
+        "payments",
+        "payment"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "words": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?",
+        "shipping",
+        "delivery",
+        "package", 
+        "merch"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "words": [
+        "tell me a joke!",
+        "tell me something funny!",
+        "do you know a joke?",
+        "joke",
+        "funny"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
