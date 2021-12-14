@@ -19,7 +19,11 @@
       ]
     },
     {
-      "words": ["bye", "see you later", "goodbye", "adios", "peace"],
+      "words": ["bye", 
+      "see you later", 
+      "goodbye", 
+      "adios", 
+      "peace"],
       "responses": [
         "See you later, thanks for visiting",
         "Have a nice day",
@@ -27,8 +31,14 @@
       ]
     },
     {
-      "words": ["thanks", "thank you", "that's helpful", "thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "words": ["thanks", 
+      "thank you", 
+      "that's helpful", 
+      "thank's a lot!"],
+      "responses": [
+      "Happy to help!",
+      "Any time!", 
+      "My pleasure"]
     },
     {
       "words": [
@@ -36,54 +46,78 @@
         "What kinds of items are there?",
         "What do you sell?",
         "items",
-        "merchandise"
+        "merchandise",
+        "merch",
+        "bookstore",
+        "where can i buy merchandise?",
+        "barnes and noble",
+        "barnes & noble",
+        "textbooks"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "The Howard University Barnes & Noble sells textbooks, school supplies, and all HU themed merchandise. It is located @ 2225 Georgia Ave. NW Washington, DC 20059. Their contact number is (202) 238-2640"
       ]
     },
     {
       "words": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?",
-        "cards",
-        "payments",
-        "payment"
+        "undergraduate",
+        "undergraduate admissions",
+        "application",
+        "new students"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Here's some information about the office of Undergraduate Admissions: \nAddress: 2400 6th St. NW Washington, D.C. 20059 \nPhone Number: \nToll Free: 1-800-822-6363 \nPhone: 202-806-2763 or 202-806-2755 \nFax: 202-806-4465 \nEmail: admission@howard.edu"
       ]
     },
     {
       "words": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?",
-        "shipping",
-        "delivery",
-        "package", 
-        "merch"
+        "graduate",
+        "graduates",
+        "graduate students",
+        "graduate admissions"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Here's some information about the office of Graduate Admissions: \nAddress: 2400 6th St. NW Washington, D.C. 20059 \nPhone Number: 202-806-6800 or toll-free at 1-800-822-6363 \nFax: 202-806-4465 \nEmail: hugsadmission@howard.edu"
+      ]
+    },
+    { 
+      "words": [
+        "howard",
+        "howard university"],
+      "responses": [
+        "Here's some information about the Office of the Bursar: \nAddress: 2400 6th Street NW, Suite 218 Washington, DC 20059 \nPhone Number: 855-490-2875 \nFax: 202-806-5279"
       ]
     },
     {
       "words": [
-        "tell me a joke!",
-        "tell me something funny!",
-        "do you know a joke?",
-        "joke",
-        "funny"
+        "bursar",
+        "bursar office",
+        "office of the bursar",
+        "bill"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Here's some information about the Office of the Bursar: \nAddress: 2400 6th Street NW, Suite 218 Washington, DC 20059 \nPhone Number: 855-490-2875 \nFax: 202-806-5279"
+      ]
+    },
+    {
+      "words": [
+        "financial aid",
+        "finances",
+        "scholarships"
+      ],
+      "responses": [
+        "Here's some information about Howard University's Financial Aid Office: \nAddress: 2400 6th Street NW, Suite 205 Washington, DC 20059 \nPhone Number: 855-490-2875 \nEmail: finaid@howard.edu"
+      ]
+    },
+    {
+      "words": [
+        "hospital",
+        "univeristy hospital",
+        "howard university hospital",
+        "hu hospital"
+      ],
+      "responses": [
+        "Here's some info about Howard Univeristy Hospital: \nAddress: 2041 Georgia Avenue Washington, DC 20060 \nPhone Number: (202) 865-6100"
       ]
     }
   ]
